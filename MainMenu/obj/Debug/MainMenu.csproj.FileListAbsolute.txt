@@ -1,0 +1,24 @@
+D:\!!Documents\Visual studio\projects\AotWW\MainMenu\bin\Debug\MainMenu.exe.config
+D:\!!Documents\Visual studio\projects\AotWW\MainMenu\bin\Debug\MainMenu.exe
+D:\!!Documents\Visual studio\projects\AotWW\MainMenu\bin\Debug\MainMenu.pdb
+D:\!!Documents\Visual studio\projects\AotWW\MainMenu\obj\Debug\MainMenu.csprojResolveAssemblyReference.cache
+D:\!!Documents\Visual studio\projects\AotWW\MainMenu\obj\Debug\MainMenu.exe
+D:\!!Documents\Visual studio\projects\AotWW\MainMenu\obj\Debug\MainMenu.pdb
+D:\!!Documents\Visual studio\projects\2_Advantures of the wandering wolf (lab_4)\AotWW v1.2 final\MainMenu\bin\Debug\MainMenu.exe.config
+D:\!!Documents\Visual studio\projects\2_Advantures of the wandering wolf (lab_4)\AotWW v1.2 final\MainMenu\obj\Debug\MainMenu.exe
+D:\!!Documents\Visual studio\projects\2_Advantures of the wandering wolf (lab_4)\AotWW v1.2 final\MainMenu\obj\Debug\MainMenu.pdb
+D:\!!Documents\Visual studio\projects\AotWW v1.3\MainMenu\bin\Debug\MainMenu.exe.config
+D:\!!Documents\Visual studio\projects\AotWW v1.3\MainMenu\obj\Debug\MainMenu.exe
+D:\!!Documents\Visual studio\projects\AotWW v1.3\MainMenu\obj\Debug\MainMenu.pdb
+D:\!!Documents\Visual studio\projects\AotWW v1.3\MainMenu\bin\Debug\MainMenu.exe
+D:\!!Documents\Visual studio\projects\AotWW v1.3\MainMenu\bin\Debug\MainMenu.pdb
+D:\!!Documents\Visual studio\projects\AotWW v1.3\MainMenu\obj\Debug\MainMenu.csprojResolveAssemblyReference.cache
+D:\!!Documents\Visual studio\projects\2_Advantures of the wandering wolf (lab_4)\AotWW v1.3 final\MainMenu\bin\Debug\MainMenu.exe.config
+D:\!!Documents\Visual studio\projects\2_Advantures of the wandering wolf (lab_4)\AotWW v1.3 final\MainMenu\obj\Debug\MainMenu.exe
+D:\!!Documents\Visual studio\projects\2_Advantures of the wandering wolf (lab_4)\AotWW v1.3 final\MainMenu\obj\Debug\MainMenu.pdb
+D:\!!Documents\Visual studio\projects\2_Advantures of the wandering wolf (lab_4)\AotWW v1.3 final\MainMenu\bin\Debug\MainMenu.exe
+D:\!!Documents\Visual studio\projects\2_Advantures of the wandering wolf (lab_4)\AotWW v1.3 final\MainMenu\bin\Debug\MainMenu.pdb
+D:\!!Documents\Visual studio\projects\2_Advantures of the wandering wolf (lab_4)\AotWW v1.3 final\MainMenu\obj\Debug\MainMenu.csprojResolveAssemblyReference.cache
+D:\!!Documents\Visual studio\projects\!Year1.1\2_Advantures of the wandering wolf (lab_4)\AotWW v1.3\MainMenu\bin\Debug\MainMenu.exe.config
+D:\!!Documents\Visual studio\projects\!Year1.1\2_Advantures of the wandering wolf (lab_4)\AotWW v1.3\MainMenu\obj\Debug\MainMenu.exe
+D:\!!Documents\Visual studio\projects\!Year1.1\2_Advantures of the wandering wolf (lab_4)\AotWW v1.3\MainMenu\obj\Debug\MainMenu.pdb
